@@ -1,4 +1,4 @@
-# Resume Matching Tool
+# Free Resume Matching Tool
 
 This is a simple tool built using Streamlit, Spacy, and Scikit-learn to match resumes with job descriptions. It calculates a matching score based on the similarity between the resume and the job description and provides an Applicant Tracking System (ATS) score to evaluate the match.
 
