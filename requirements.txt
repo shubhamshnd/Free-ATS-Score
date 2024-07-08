@@ -1,4 +1,9 @@
-streamlit==1.8.0
-spacy==3.1.0
-scikit-learn==0.24.2
-click==8.1.7
+streamlit
+spacy
+scikit-learn
+PyPDF2
+matplotlib
+seaborn
+wordcloud
+pandas
+numpy
