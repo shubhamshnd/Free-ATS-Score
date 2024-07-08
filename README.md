@@ -14,7 +14,10 @@ This is a simple tool built using Streamlit, Spacy, and Scikit-learn to match re
 ## Requirements
 
 ```
-pip install streamlit spacy scikit-learn PyPDF2 matplotlib seaborn wordcloud pandas numpy
+pip install -r requirements.txt
+```
+
+```
 python -m spacy download en_core_web_sm
 ```
 
