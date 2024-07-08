@@ -13,10 +13,10 @@ This is a simple tool built using Streamlit, Spacy, and Scikit-learn to match re
 
 ## Requirements
 
-- Python 3.x
-- Streamlit
-- Spacy
-- Scikit-learn
+```
+pip install streamlit spacy scikit-learn PyPDF2 matplotlib seaborn wordcloud pandas numpy
+python -m spacy download en_core_web_sm
+```
 
 ## File Structure
 
